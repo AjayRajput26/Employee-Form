@@ -1,0 +1,31 @@
+.container{
+    background-color: aqua;
+    
+}
+
+.heading{
+   margin-left: 25%; 
+   
+}
+
+.lb{
+    margin-left: 30%;
+    font-size: larger;
+    
+}
+
+#nameIp.departmentIp.ratingIp{
+    border: 2px solid black;
+    border-radius: 20px;
+    margin-left: 20px;
+    padding-left: 10px;
+    font-size: larger;
+}
+
+.button{
+    margin-left: 45%;
+    margin-bottom: 10px;
+    margin-top: 5%;
+    border-radius: 2cm;
+    font-size: larger;
+}
